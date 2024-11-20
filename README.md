@@ -1,6 +1,6 @@
 ![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/43d2364f-2150-4ef2-8f3f-0d82708fddfb)
-**Remote Work and Mental Health Dashboard
-**
+**Remote Work and Mental Health Dashboard**
+
 **Introduction**
 
 Remote work has reshaped the way organizations operate, creating both opportunities and challenges for employees' mental well-being. This project explores the intricate relationship between work patterns, mental health, and productivity in the remote work era, leveraging an interactive dashboard built with MongoDB Atlas and Compass.
