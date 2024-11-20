@@ -18,6 +18,7 @@ The dashboard visualizes insights from a dataset containing 5,000 employees acro
 **Analytical Insights**
 
 The dashboard provides a comprehensive view of mental well-being in the remote work era through 12 key visualizations, offering actionable insights into work patterns, mental health, and productivity:
+
 **1. Work Location vs. Stress Levels**
 
 Insight: Hybrid workers tend to have the lowest stress levels, while remote and onsite workers report medium to high stress levels more frequently.
