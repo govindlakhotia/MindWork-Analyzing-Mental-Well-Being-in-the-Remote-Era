@@ -94,13 +94,8 @@ Takeaway: Investment in remote work tools, flexible policies, and employee assis
 
 This dashboard is designed to assist decision-makers in:
 
-    Identifying High-Stress Groups:
-        Focus on industries, job roles, or regions with higher stress levels and low satisfaction.
-    Enhancing Access to Resources:
-        Expand access to mental health programs, particularly in regions with limited availability.
-    Improving Work-Life Balance:
-        Optimize meeting schedules and enforce healthy work-hour limits to reduce stress.
-    Promoting Wellness:
-        Encourage physical activity through workplace programs to improve overall mental and physical health.
-    Targeting Support Initiatives:
-        Invest in company support initiatives tailored to employees' work locations and roles.
+    Identifying High-Stress Groups: Focus on industries, job roles, or regions with higher stress levels and low satisfaction.
+    Enhancing Access to Resources: Expand access to mental health programs, particularly in regions with limited availability.
+    Improving Work-Life Balance: Optimize meeting schedules and enforce healthy work-hour limits to reduce stress.
+    Promoting Wellness: Encourage physical activity through workplace programs to improve overall mental and physical health.
+    Targeting Support Initiatives: Invest in company support initiatives tailored to employees' work locations and roles.
