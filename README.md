@@ -1,11 +1,41 @@
-![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/43d2364f-2150-4ef2-8f3f-0d82708fddfb)
 **Remote Work and Mental Health Dashboard**
 
-**Introduction**
+**About the Dataset**
 
-Remote work has reshaped the way organizations operate, creating both opportunities and challenges for employees' mental well-being. This project explores the intricate relationship between work patterns, mental health, and productivity in the remote work era, leveraging an interactive dashboard built with MongoDB Atlas and Compass.
+The dataset used in this project provides comprehensive information about 5,000 employees across various industries, job roles, and regions, focusing on their mental health and work experiences during the remote work era. The dataset includes the following key attributes:
 
-The dashboard visualizes insights from a dataset containing 5,000 employees across various industries, regions, and roles. Key aspects include stress levels, work-life balance, access to mental health resources, and satisfaction with remote work. This project aims to provide actionable insights for managers, HR professionals, and researchers to enhance mental well-being in the workplace.
+    Employee Demographics: Age, gender, region, and job role.
+    Work Environment: Work location (remote, hybrid, onsite), hours worked per week, and number of virtual meetings.
+    Mental Health and Well-Being:
+        Stress levels and social isolation ratings.
+        Mental health conditions (e.g., depression, anxiety, burnout).
+        Access to mental health resources.
+        Physical activity and sleep quality.
+    Work Performance:
+        Productivity changes (increase, decrease, or no change).
+        Satisfaction with remote work.
+        Work-life balance ratings.
+    Company Factors:
+        Support for remote work.
+        Industry and years of experience.
+
+This dataset provides a unique opportunity to explore how remote and hybrid work models impact mental health, productivity, and job satisfaction, offering insights across diverse sectors and regions.
+
+**Objectives of the Project**
+
+The primary objective of this project is to analyze the impact of remote work on employees' mental well-being and performance during the remote work era. The project is structured around the following goals:
+
+    Understand the Relationship Between Work Patterns and Stress: Examine how factors such as work location, hours worked, and virtual meetings influence stress levels and work-life balance.
+
+    Evaluate the Role of Mental Health Resources: Assess the impact of access to mental health resources on employee productivity, satisfaction, and overall well-being.
+
+    Analyze Regional and Job-Specific Trends: Explore differences in stress levels, work-life balance, and resource availability across regions, industries, and job roles.
+
+    Identify Key Drivers of Satisfaction with Remote Work: Investigate how factors like company support, social isolation, and mental health conditions affect satisfaction levels.
+
+    Provide Actionable Insights for Managers: Offer data-driven recommendations to improve mental health support, enhance work-life balance, and optimize employee satisfaction and productivity.
+
+    Contribute to Workplace Wellness Initiatives: Develop a comprehensive dashboard that organizations can use to monitor and improve the mental well-being of their employees.
 
 **Key Trends in the Data**
 
@@ -90,6 +120,8 @@ Takeaway: Regional wellness programs and mental health support initiatives can h
 Insight: Employees with higher ratings for company support report greater satisfaction with remote work, regardless of stress or workload.
 
 Takeaway: Investment in remote work tools, flexible policies, and employee assistance programs fosters satisfaction and engagement.
+
+![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/43d2364f-2150-4ef2-8f3f-0d82708fddfb)
 
 **Managerial Aspects**
 
