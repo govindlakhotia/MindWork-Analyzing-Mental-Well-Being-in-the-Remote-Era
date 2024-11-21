@@ -4,8 +4,15 @@
 
 The dataset used in this project provides comprehensive information about 5,000 employees across various industries, job roles, and regions, focusing on their mental health and work experiences during the remote work era. The dataset includes the following key attributes:
 
-    Employee Demographics: Age, gender, region, and job role.
-    Work Environment: Work location (remote, hybrid, onsite), hours worked per week, and number of virtual meetings.
+    Employee Demographics: 
+        Age. 
+        Gender.
+        Region.
+        Job Role.
+    Work Environment: 
+        Work location (remote, hybrid, onsite)
+        Hours Worked per Week
+        Number of Virtual Meetings.
     Mental Health and Well-Being:
         Stress levels and social isolation ratings.
         Mental health conditions (e.g., depression, anxiety, burnout).
