@@ -128,7 +128,8 @@ Insight: Employees with higher ratings for company support report greater satisf
 
 Takeaway: Investment in remote work tools, flexible policies, and employee assistance programs fosters satisfaction and engagement.
 
-![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/43d2364f-2150-4ef2-8f3f-0d82708fddfb)
+
+![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/38ad7dc5-c4c8-4c67-b8b1-d9ff108cb543)
 
 **Managerial Aspects**
 
