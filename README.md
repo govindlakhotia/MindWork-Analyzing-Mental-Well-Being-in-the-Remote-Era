@@ -1,5 +1,7 @@
 **Remote Work and Mental Health Dashboard**
 
+Credits: Waqar Ali (https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health)
+
 **About the Dataset**
 
 The dataset used in this project provides comprehensive information about 5,000 employees across various industries, job roles, and regions, focusing on their mental health and work experiences during the remote work era. The dataset includes the following key attributes:
@@ -116,11 +118,11 @@ Insight: A higher number of virtual meetings correlates with increased stress le
 
 Takeaway: Limiting unnecessary meetings or consolidating them into focused sessions can help alleviate stress.
 
-**11. Region vs. Stress Levels**
+**11. Sleep Quality vs Age**
 
-Insight: Stress levels vary significantly by region, with higher stress reported in regions with lower work-life balance and limited resources.
+Insight: Employees in the middle-age range (40-50) report the best sleep quality, while younger employees (20-30) and older employees (50+) experience poorer sleep quality. Poor sleep quality in younger employees often correlates with higher stress levels, whereas for older employees, it may be linked to health issues or senior responsibilities.
 
-Takeaway: Regional wellness programs and mental health support initiatives can help reduce these disparities.
+Takeaway: Promoting regular physical activity, stress management programs, and flexible work schedules can significantly improve sleep quality across all age groups. Tailoring wellness programs to the unique challenges faced by younger and older employees ensures a healthier and more productive workforce.
 
 **12. Company Support for Remote Work vs. Satisfaction**
 
@@ -128,8 +130,7 @@ Insight: Employees with higher ratings for company support report greater satisf
 
 Takeaway: Investment in remote work tools, flexible policies, and employee assistance programs fosters satisfaction and engagement.
 
-
-![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/38ad7dc5-c4c8-4c67-b8b1-d9ff108cb543)
+![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/08ed4140-b277-4621-859b-323781691e26)
 
 **Managerial Aspects**
 
