@@ -1,8 +1,8 @@
-**Remote Work and Mental Health Dashboard**
+# Remote Work and Mental Health Dashboard
 
 Credits: [Waqar Ali](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health)
 
-**About the Dataset**
+## About the Dataset
 
 The dataset used in this project provides comprehensive information about 5,000 employees across various industries, job roles, and regions, focusing on their mental health and work experiences during the remote work era. The dataset includes the following key attributes:
 
@@ -30,7 +30,7 @@ The dataset used in this project provides comprehensive information about 5,000 
 
 This dataset provides a unique opportunity to explore how remote and hybrid work models impact mental health, productivity, and job satisfaction, offering insights across diverse sectors and regions.
 
-**Objectives of the Project**
+## Objectives of the Project
 
 The primary objective of this project is to analyze the impact of remote work on employees' mental well-being and performance during the remote work era. The project is structured around the following goals:
 
@@ -41,7 +41,7 @@ The primary objective of this project is to analyze the impact of remote work on
     5. Provide Actionable Insights for Managers: Offer data-driven recommendations to improve mental health support, enhance work-life balance, and optimize employee satisfaction and productivity.
     6. Contribute to Workplace Wellness Initiatives: Develop a comprehensive dashboard that organizations can use to monitor and improve the mental well-being of their employees.
 
-**Key Trends in the Data**
+## Key Trends in the Data
 
 **1. Work Location and Stress Levels:** Employees working remotely report varying stress levels compared to hybrid or onsite workers, with distinct patterns across regions.
 
@@ -53,7 +53,7 @@ The primary objective of this project is to analyze the impact of remote work on
 
 **5. Industry Insights:** Work-life balance ratings and stress levels significantly differ across industries like IT, Finance, and Healthcare.
 
-**Analytical Insights**
+## Analytical Insights
 
 The dashboard provides a comprehensive view of mental well-being in the remote work era through 12 key visualizations, offering actionable insights into work patterns, mental health, and productivity:
 
@@ -132,7 +132,7 @@ Takeaway: Expanding access to mental health programs can boost overall employee 
 
 ![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/08ed4140-b277-4621-859b-323781691e26)
 
-**Managerial Aspects**
+## Managerial Aspects
 
 This dashboard is designed to assist decision-makers in:
 
