@@ -1,6 +1,6 @@
 **Remote Work and Mental Health Dashboard**
 
-Credits: [https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health](Waqar Ali)
+Credits: (Waqar Ali)[https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health]
 
 **About the Dataset**
 
