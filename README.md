@@ -43,21 +43,21 @@ The primary objective of this project is to analyze the impact of remote work on
 
 **Key Trends in the Data**
 
-    1. Work Location and Stress Levels: Employees working remotely report varying stress levels compared to hybrid or onsite workers, with distinct patterns across regions.
-    2. Impact of Virtual Meetings: A higher number of virtual meetings tends to correlate with increased stress levels.
-    3. Access to Mental Health Resources: Employees with access to mental health resources demonstrate improved productivity and satisfaction with remote work.
-    4. Physical Activity and Sleep Quality: Regular physical activity is associated with better sleep quality, highlighting the importance of wellness programs.
-    5. Industry Insights: Work-life balance ratings and stress levels significantly differ across industries like IT, Finance, and Healthcare.
+**1. Work Location and Stress Levels:** Employees working remotely report varying stress levels compared to hybrid or onsite workers, with distinct patterns across regions.
+**2. Impact of Virtual Meetings:** A higher number of virtual meetings tends to correlate with increased stress levels.
+**3. Access to Mental Health Resources:** Employees with access to mental health resources demonstrate improved productivity and satisfaction with remote work.
+**4. Physical Activity and Sleep Quality:** Regular physical activity is associated with better sleep quality, highlighting the importance of wellness programs.
+**5. Industry Insights:** Work-life balance ratings and stress levels significantly differ across industries like IT, Finance, and Healthcare.
 
 **Analytical Insights**
 
 The dashboard provides a comprehensive view of mental well-being in the remote work era through 12 key visualizations, offering actionable insights into work patterns, mental health, and productivity:
 
-**1. Work Location vs. Stress Levels**
+**1. Mental Health Condition vs. Satisfaction with Remote Work**
 
-Insight: Hybrid workers tend to have the lowest stress levels, while remote and onsite workers report medium to high stress levels more frequently.
+Insight: Employees with conditions like depression or anxiety report lower satisfaction with remote work compared to those without mental health challenges.
 
-Takeaway: Hybrid work models may offer a balance between flexibility and structure, reducing stress for employees.
+Takeaway: Tailored support for employees with mental health conditions, such as counseling or therapy, is essential.
 
 **2. Hours Worked Per Week vs. Work-Life Balance**
 
@@ -71,35 +71,35 @@ Insight: Employees with higher social isolation ratings are generally less satis
 
 Takeaway: Organizations should invest in virtual team-building activities and employee engagement to reduce feelings of isolation.
 
-**4. Access to Mental Health Resources vs. Productivity Change**
+**4. Company Support for Remote Work vs. Satisfaction**
 
-Insight: Employees with access to mental health resources are more likely to report productivity improvements or stability, whereas those without access experience a decline.
+Insight: Employees with higher ratings for company support report greater satisfaction with remote work, regardless of stress or workload.
 
-Takeaway: Expanding access to mental health programs can boost overall employee productivity.
+Takeaway: Investment in remote work tools, flexible policies, and employee assistance programs fosters satisfaction and engagement.
 
-**5. Mental Health Condition vs. Satisfaction with Remote Work**
-
-Insight: Employees with conditions like depression or anxiety report lower satisfaction with remote work compared to those without mental health challenges.
-
-Takeaway: Tailored support for employees with mental health conditions, such as counseling or therapy, is essential.
-
-**6. Region vs. Access to Mental Health Resources**
-
-Insight: Regions like North America and Europe have better access to mental health resources, while Asia and Africa show limited availability.
-
-Takeaway: Regional disparities in mental health resource availability should be addressed through localized initiatives.
-
-**7. Physical Activity vs. Sleep Quality**
+**5. Physical Activity vs. Sleep Quality**
 
 Insight: Employees who engage in regular physical activity (daily or weekly) report better sleep quality compared to those with no physical activity.
 
 Takeaway: Encouraging wellness programs that promote physical activity can improve sleep quality and overall well-being.
 
-**8. Job Role vs. Stress Levels**
+**6. Work Location vs. Stress Levels**
 
-Insight: High stress levels are more prevalent among job roles like Software Engineers and Sales, whereas roles like HR and Marketing report lower stress.
+Insight: Hybrid workers tend to have the lowest stress levels, while remote and onsite workers report medium to high stress levels more frequently.
 
-Takeaway: Job-specific interventions, such as flexible deadlines or workload adjustments, can help reduce stress for high-stress roles.
+Takeaway: Hybrid work models may offer a balance between flexibility and structure, reducing stress for employees.
+
+**7. Number of Virtual Meetings vs. Stress Levels**
+
+Insight: A higher number of virtual meetings correlates with increased stress levels, particularly when meetings exceed 10 per week.
+
+Takeaway: Limiting unnecessary meetings or consolidating them into focused sessions can help alleviate stress.
+
+**8. Sleep Quality vs Age**
+
+Insight: Employees in the middle-age range (40-50) report the best sleep quality, while younger employees (20-30) and older employees (50+) experience poorer sleep quality. Poor sleep quality in younger employees often correlates with higher stress levels, whereas for older employees, it may be linked to health issues or senior responsibilities.
+
+Takeaway: Promoting regular physical activity, stress management programs, and flexible work schedules can significantly improve sleep quality across all age groups. Tailoring wellness programs to the unique challenges faced by younger and older employees ensures a healthier and more productive workforce.
 
 **9. Industry vs. Work-Life Balance Ratings**
 
@@ -107,23 +107,24 @@ Insight: Employees in IT and Finance industries report the lowest work-life bala
 
 Takeaway: Industries with low work-life balance ratings may benefit from policies that encourage time off and workload redistribution.
 
-**10. Number of Virtual Meetings vs. Stress Levels**
+**10. Job Role vs. Stress Levels**
 
-Insight: A higher number of virtual meetings correlates with increased stress levels, particularly when meetings exceed 10 per week.
+Insight: High stress levels are more prevalent among job roles like Software Engineers and Sales, whereas roles like HR and Marketing report lower stress.
 
-Takeaway: Limiting unnecessary meetings or consolidating them into focused sessions can help alleviate stress.
+Takeaway: Job-specific interventions, such as flexible deadlines or workload adjustments, can help reduce stress for high-stress roles.
 
-**11. Sleep Quality vs Age**
+**11. Region vs. Access to Mental Health Resources**
 
-Insight: Employees in the middle-age range (40-50) report the best sleep quality, while younger employees (20-30) and older employees (50+) experience poorer sleep quality. Poor sleep quality in younger employees often correlates with higher stress levels, whereas for older employees, it may be linked to health issues or senior responsibilities.
+Insight: Regions like North America and Europe have better access to mental health resources, while Asia and Africa show limited availability.
 
-Takeaway: Promoting regular physical activity, stress management programs, and flexible work schedules can significantly improve sleep quality across all age groups. Tailoring wellness programs to the unique challenges faced by younger and older employees ensures a healthier and more productive workforce.
+Takeaway: Regional disparities in mental health resource availability should be addressed through localized initiatives.
 
-**12. Company Support for Remote Work vs. Satisfaction**
+**12. Access to Mental Health Resources vs. Productivity Change**
 
-Insight: Employees with higher ratings for company support report greater satisfaction with remote work, regardless of stress or workload.
+Insight: Employees with access to mental health resources are more likely to report productivity improvements or stability, whereas those without access experience a decline.
 
-Takeaway: Investment in remote work tools, flexible policies, and employee assistance programs fosters satisfaction and engagement.
+Takeaway: Expanding access to mental health programs can boost overall employee productivity.
+
 
 ![Remote Work and Mental Health Dashboard](https://github.com/user-attachments/assets/08ed4140-b277-4621-859b-323781691e26)
 
@@ -131,8 +132,8 @@ Takeaway: Investment in remote work tools, flexible policies, and employee assis
 
 This dashboard is designed to assist decision-makers in:
 
-    Identifying High-Stress Groups: Focus on industries, job roles, or regions with higher stress levels and low satisfaction.
-    Enhancing Access to Resources: Expand access to mental health programs, particularly in regions with limited availability.
-    Improving Work-Life Balance: Optimize meeting schedules and enforce healthy work-hour limits to reduce stress.
-    Promoting Wellness: Encourage physical activity through workplace programs to improve overall mental and physical health.
-    Targeting Support Initiatives: Invest in company support initiatives tailored to employees' work locations and roles.
+**1. Identifying High-Stress Groups:** Focus on industries, job roles, or regions with higher stress levels and low satisfaction.
+**2. Enhancing Access to Resources:** Expand access to mental health programs, particularly in regions with limited availability.
+**3. Improving Work-Life Balance:** Optimize meeting schedules and enforce healthy work-hour limits to reduce stress.
+**4. Promoting Wellness:** Encourage physical activity through workplace programs to improve overall mental and physical health.
+**5. Targeting Support Initiatives:** Invest in company support initiatives tailored to employees' work locations and roles.
